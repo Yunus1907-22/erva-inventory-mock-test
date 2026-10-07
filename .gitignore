@@ -1,0 +1,4 @@
+inventory.json
+inventory.json.tmp
+node_modules/
+.env*

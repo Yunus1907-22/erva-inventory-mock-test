@@ -1,0 +1,310 @@
+[
+  {
+    "id": "364",
+    "name": "Bianco Calacatta",
+    "category": "Quartz",
+    "status": "In stock",
+    "origin": "Spain",
+    "dimensions": "138 x 79",
+    "description": "Bianco Calacatta slab sourced from Spain.",
+    "image": "/images/stone-364.jpg",
+    "gallery": [
+      "/images/stone-364.jpg"
+    ],
+    "sourceUrl": "https://ervastone.com/stone-detail.cfm?id=364"
+  },
+  {
+    "id": "357",
+    "name": "Bianco Imperial",
+    "category": "Quartz",
+    "status": "In stock",
+    "origin": "Vietnam",
+    "dimensions": "139 1/2 x 80",
+    "description": "Bianco Imperial slab sourced from Vietnam.",
+    "image": "/images/stone-357.jpg",
+    "gallery": [
+      "/images/stone-357.jpg"
+    ],
+    "sourceUrl": "https://ervastone.com/stone-detail.cfm?id=357"
+  },
+  {
+    "id": "358",
+    "name": "Calacatta Castana ( Printed Quartz with 2 cm)",
+    "category": "Quartz",
+    "status": "In stock",
+    "origin": "Italy",
+    "dimensions": "127 x 64",
+    "description": "Calacatta Castana ( Printed Quartz with 2 cm) slab sourced from Italy.",
+    "image": "/images/stone-358.jpg",
+    "gallery": [
+      "/images/stone-358.jpg"
+    ],
+    "sourceUrl": "https://ervastone.com/stone-detail.cfm?id=358"
+  },
+  {
+    "id": "368",
+    "name": "Calacatta Jade",
+    "category": "Quartz",
+    "status": "In stock",
+    "origin": "China",
+    "dimensions": "127 x 64",
+    "description": "Calacatta Jade slab sourced from China.",
+    "image": "/images/stone-368.jpg",
+    "gallery": [
+      "/images/stone-368.jpg"
+    ],
+    "sourceUrl": "https://ervastone.com/stone-detail.cfm?id=368"
+  },
+  {
+    "id": "361",
+    "name": "Calacatta Laza",
+    "category": "Quartz",
+    "status": "In stock",
+    "origin": "Asia",
+    "dimensions": "140 x 80",
+    "description": "Calacatta Laza slab sourced from Asia.",
+    "image": "/images/stone-361.jpg",
+    "gallery": [
+      "/images/stone-361.jpg"
+    ],
+    "sourceUrl": "https://ervastone.com/stone-detail.cfm?id=361"
+  },
+  {
+    "id": "359",
+    "name": "Calacatta Venata",
+    "category": "Quartz",
+    "status": "Low stock",
+    "origin": "Italy",
+    "dimensions": "138 x 79",
+    "description": "Calacatta Venata slab sourced from Italy.",
+    "image": "/images/stone-359.jpg",
+    "gallery": [
+      "/images/stone-359.jpg"
+    ],
+    "sourceUrl": "https://ervastone.com/stone-detail.cfm?id=359"
+  },
+  {
+    "id": "367",
+    "name": "Carrara Bianco",
+    "category": "Quartz",
+    "status": "In stock",
+    "origin": "Italy",
+    "dimensions": "139×78",
+    "description": "Carrara Bianco slab sourced from Italy.",
+    "image": "/images/stone-367.jpg",
+    "gallery": [
+      "/images/stone-367.jpg"
+    ],
+    "sourceUrl": "https://ervastone.com/stone-detail.cfm?id=367"
+  },
+  {
+    "id": "376",
+    "name": "Eternal D'or",
+    "category": "Quartz",
+    "status": "In stock",
+    "origin": "Spain",
+    "dimensions": "127 x 64",
+    "description": "Eternal D'or slab sourced from Spain.",
+    "image": "/images/stone-376.jpg",
+    "gallery": [
+      "/images/stone-376.jpg"
+    ],
+    "sourceUrl": "https://ervastone.com/stone-detail.cfm?id=376"
+  },
+  {
+    "id": "369",
+    "name": "Frosty White",
+    "category": "Quartz",
+    "status": "In stock",
+    "origin": "Vietnam",
+    "dimensions": "139 x 78",
+    "description": "Frosty White slab sourced from Vietnam.",
+    "image": "/images/stone-369.jpg",
+    "gallery": [
+      "/images/stone-369.jpg"
+    ],
+    "sourceUrl": "https://ervastone.com/stone-detail.cfm?id=369"
+  },
+  {
+    "id": "362",
+    "name": "Lusso Venata",
+    "category": "Quartz",
+    "status": "In stock",
+    "origin": "VIETNAM",
+    "dimensions": "138 x 80",
+    "description": "Lusso Venata slab sourced from VIETNAM.",
+    "image": "/images/stone-362.jpg",
+    "gallery": [
+      "/images/stone-362.jpg"
+    ],
+    "sourceUrl": "https://ervastone.com/stone-detail.cfm?id=362"
+  },
+  {
+    "id": "372",
+    "name": "Magnus Oyster",
+    "category": "Quartz",
+    "status": "In stock",
+    "origin": "Italy",
+    "dimensions": "129 x 64",
+    "description": "Magnus Oyster slab sourced from Italy.",
+    "image": "/images/stone-372.jpg",
+    "gallery": [
+      "/images/stone-372.jpg"
+    ],
+    "sourceUrl": "https://ervastone.com/stone-detail.cfm?id=372"
+  },
+  {
+    "id": "371",
+    "name": "Pietra Divina",
+    "category": "Quartz",
+    "status": "Out of stock",
+    "origin": "Vietnam",
+    "dimensions": "138 x 79",
+    "description": "Pietra Divina slab sourced from Vietnam.",
+    "image": "/images/stone-371.jpg",
+    "gallery": [
+      "/images/stone-371.jpg"
+    ],
+    "sourceUrl": "https://ervastone.com/stone-detail.cfm?id=371"
+  },
+  {
+    "id": "360",
+    "name": "Pure White",
+    "category": "Quartz",
+    "status": "In stock",
+    "origin": "Taiwan",
+    "dimensions": "138 x 79",
+    "description": "Pure White slab sourced from Taiwan.",
+    "image": "/images/stone-360.jpg",
+    "gallery": [
+      "/images/stone-360.jpg"
+    ],
+    "sourceUrl": "https://ervastone.com/stone-detail.cfm?id=360"
+  },
+  {
+    "id": "363",
+    "name": "Serena Eternal",
+    "category": "Quartz",
+    "status": "In stock",
+    "origin": "Spain",
+    "dimensions": "128 x 63",
+    "description": "Serena Eternal slab sourced from Spain.",
+    "image": "/images/stone-363.jpg",
+    "gallery": [
+      "/images/stone-363.jpg"
+    ],
+    "sourceUrl": "https://ervastone.com/stone-detail.cfm?id=363"
+  },
+  {
+    "id": "373",
+    "name": "Serena Gold",
+    "category": "Quartz",
+    "status": "In stock",
+    "origin": "South Korea",
+    "dimensions": "127 x 64",
+    "description": "Serena Gold slab sourced from South Korea.",
+    "image": "/images/stone-373.jpg",
+    "gallery": [
+      "/images/stone-373.jpg"
+    ],
+    "sourceUrl": "https://ervastone.com/stone-detail.cfm?id=373"
+  },
+  {
+    "id": "374",
+    "name": "Statuary Glory",
+    "category": "Quartz",
+    "status": "In stock",
+    "origin": "United States",
+    "dimensions": "136 x 79",
+    "description": "Statuary Glory slab sourced from United States.",
+    "image": "/images/stone-374.jpg",
+    "gallery": [
+      "/images/stone-374.jpg"
+    ],
+    "sourceUrl": "https://ervastone.com/stone-detail.cfm?id=374"
+  },
+  {
+    "id": "366",
+    "name": "Venzo",
+    "category": "Quartz",
+    "status": "Out of stock",
+    "origin": "Vietnam",
+    "dimensions": "127 x 64",
+    "description": "Venzo slab sourced from Vietnam.",
+    "image": "/images/stone-366.jpg",
+    "gallery": [
+      "/images/stone-366.jpg"
+    ],
+    "sourceUrl": "https://ervastone.com/stone-detail.cfm?id=366"
+  },
+  {
+    "id": "365",
+    "name": "Volakas",
+    "category": "Quartz",
+    "status": "In stock",
+    "origin": "Greece",
+    "dimensions": "126 x 64",
+    "description": "Volakas slab sourced from Greece.",
+    "image": "/images/stone-365.jpg",
+    "gallery": [
+      "/images/stone-365.jpg"
+    ],
+    "sourceUrl": "https://ervastone.com/stone-detail.cfm?id=365"
+  },
+  {
+    "id": "377",
+    "name": "Esenza Blue",
+    "category": "Granite",
+    "status": "In stock",
+    "origin": "Brazil",
+    "dimensions": "138 x 79",
+    "description": "Esenza Blue slab sourced from Brazil.",
+    "image": "/images/stone-377.jpg",
+    "gallery": [
+      "/images/stone-377.jpg"
+    ],
+    "sourceUrl": "https://ervastone.com/stone-detail.cfm?id=377"
+  },
+  {
+    "id": "375",
+    "name": "Eternal Noir",
+    "category": "Silestone Quartz",
+    "status": "In stock",
+    "origin": "Spain",
+    "dimensions": "128 x 63",
+    "description": "Eternal Noir slab sourced from Spain.",
+    "image": "/images/stone-375.jpg",
+    "gallery": [
+      "/images/stone-375.jpg"
+    ],
+    "sourceUrl": "https://ervastone.com/stone-detail.cfm?id=375"
+  },
+  {
+    "id": "379",
+    "name": "Mustang",
+    "category": "Quartzite",
+    "status": "In stock",
+    "origin": "Brazil",
+    "dimensions": "138 x 79",
+    "description": "Mustang slab sourced from Brazil.",
+    "image": "/images/stone-379.jpg",
+    "gallery": [
+      "/images/stone-379.jpg"
+    ],
+    "sourceUrl": "https://ervastone.com/stone-detail.cfm?id=379"
+  },
+  {
+    "id": "378",
+    "name": "Taj Mahal",
+    "category": "Quartzite",
+    "status": "In stock",
+    "origin": "India",
+    "dimensions": "138 x 79",
+    "description": "Taj Mahal slab sourced from India.",
+    "image": "/images/stone-378.jpg",
+    "gallery": [
+      "/images/stone-378.jpg"
+    ],
+    "sourceUrl": "https://ervastone.com/stone-detail.cfm?id=378"
+  }
+]
